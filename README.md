@@ -1,9 +1,9 @@
 # Movie Ticket Booking
 
-- The Movie Ticket Booking System is a Python application designed to simulate the ticket booking process for a cinema. 
+- The Movie Ticket Booking System is a Python console application designed to simulate the ticket booking process for a cinema. 
 - The system allows users to select a city, choose a movie from the available options, view movie details, and book tickets.
 - It also provides the option to pre-book food along with the ticket.
-- The application includes features such as displaying movie information, viewing trailers, selecting show timings, choosing seats, and making payments.
+- The application includes features such as displaying movie information, viewing trailers, selecting show timings, choosing seats, and making payments (Note : there is no API or Real Payment Process is include).
 
 # Key Features:
 
@@ -31,8 +31,8 @@
       - Random booking numbers are generated for each transaction to simulate real-world booking systems.
 
 # Technologies Used:
-  Language: Python
-  Libraries: Colorama, OpenCV (for trailer simulation), Pandas (for displaying tables)
+  - Language: Python
+  - Libraries: Colorama, OpenCV (for trailer simulation), Pandas (for displaying tables)
 
 
 # Notes:
